@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  enemy.cpp
+C:\Users\vasil\Desktop\examino3\c++\paixnidi\Game\Game\player.h(9,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  game1.cpp
+C:\Users\vasil\Desktop\examino3\c++\paixnidi\Game\Game\player.h(9,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vasil\Desktop\examino3\c++\paixnidi\Game\Game\game1.cpp(251,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  gameobject.cpp
+C:\Users\vasil\Desktop\examino3\c++\paixnidi\Game\Game\player.h(9,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  gift.cpp
+C:\Users\vasil\Desktop\examino3\c++\paixnidi\Game\Game\player.h(9,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\vasil\Desktop\examino3\c++\paixnidi\Game\Game\player.h(9,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  player.cpp
+C:\Users\vasil\Desktop\examino3\c++\paixnidi\Game\Game\player.h(9,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  superGift.cpp
+C:\Users\vasil\Desktop\examino3\c++\paixnidi\Game\Game\player.h(9,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vasil\Desktop\examino3\c++\paixnidi\Game\Game\superGift.cpp(11,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  14 of 219 functions ( 6.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game.vcxproj -> C:\Users\vasil\Desktop\examino3\c++\paixnidi\Game\bin\Game.exe
